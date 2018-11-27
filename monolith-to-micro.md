@@ -38,3 +38,4 @@
 
 #### Takeaways
 * Wild rides workshop
+* Redis for authentication
