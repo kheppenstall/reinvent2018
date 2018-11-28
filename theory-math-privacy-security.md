@@ -43,4 +43,4 @@
     * Detect trouble before it hurts us
 
 #### Takeaways
-* Provable security for the win (in code)
+* Provable security wfor the win (in code)
